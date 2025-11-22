@@ -9,6 +9,8 @@ class Calculator
 
         int Add (int, int);
         int Mul (double, double);
-};
 
+	double Abs(double a);
+
+};
 #endif//CALCULATOR_H
